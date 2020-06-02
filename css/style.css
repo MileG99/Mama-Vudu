@@ -1,0 +1,40 @@
+@charset "utf-8";
+.logo {
+	background-color: grey;
+	weight: 100%;
+	height:100px;
+	margin: 1.2%;
+	float: center;
+}
+
+.navigation { 
+	background-color: grey;
+	weight: 100%;
+	height:200px;
+	margin: 1.2%;
+	float: center;
+}
+.banner {
+	background-color: grey;
+	weight: 100%;
+	height:150px;
+	margin: 1.2%;
+}
+
+.sidebar {
+	background-color: grey;
+    width: 29.3%;
+    float: left;
+    margin: 2%;
+    height:500px;
+}
+.footer {
+	background-color: grey;
+	weight: 100%;
+	height:100px;
+	margin: 1.2%;
+}
+
+.espacio{
+	clear:both;
+}
